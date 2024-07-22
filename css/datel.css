@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1200px;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=datel.css.map */
